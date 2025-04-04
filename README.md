@@ -1,105 +1,58 @@
+---
 
 ## Hi there 👋, I'm Edgar Muyale (@muyale)
 
-I'm a passionate Data Scientist and AI Engineer dedicated to developing AI solutions that address real-world problems. My journey in the field of Artificial Intelligence began with a fascination for Alexa and has since evolved through extensive learning and hands-on projects. I have a deep-seated love for AI and data, and I'm eager to collaborate on innovative projects that make a significant impact.
+I'm a Data Scientist and AI Engineer focused on solving business problems with AI. I specialize in creating data-driven solutions using machine learning and deep learning techniques to drive business transformation. With a solid foundation in statistics and AI, I design and deploy scalable AI solutions to tackle real-world challenges across industries.
 
 ### 👀 Interests
 - Artificial Intelligence
 - Machine Learning
 - Data Science
-- AI Engineering
+- AI Engineering for Business Applications
 
 ### 🌱 Current Focus
 I am currently focused on:
-- Data Science and Artificial Intelligence Engineering
-- Building AI modules that impact various areas of life
-- Developing a startup that provides real-time data analytics solutions for SMEs
+- Building AI-driven solutions to address business challenges
+- Developing AI modules that create measurable business impact
+- Providing real-time data analytics solutions for SMEs
 
 ### 💞️ Goals
-- To develop AI solutions to world problems using data
-- To inspire data scientists to leverage Large Language Models (LLMs)
-- To continue expanding my knowledge and expertise in AI and machine learning
+- To leverage AI to solve complex business problems
+- To empower businesses through the use of predictive models and machine learning techniques
+- To inspire AI enthusiasts to focus on real-world applications and tangible outcomes
 
 ### 📫 Contact Me
+- Phone: +254712310352
 - Email: edgarmuyale@gmail.com
+- Medium: [https://medium.com/@edgar_muyale](https://medium.com/@edgar_muyale)
 
 ---
 
 ## Skills and Expertise
 
 ### Programming Languages
-- **Python:** Proficient in Python programming with a focus on AI and data science applications.
-- **PyTorch:** Extensive experience with PyTorch for building and training neural networks.
+- **Python:** Advanced proficiency in Python for AI, data science, and business-driven applications.
+- **PyTorch:** Expertise in PyTorch for building and deploying deep learning models to solve complex problems.
 
 ### Machine Learning & Deep Learning
-- **Algorithms:** Linear Regression, Random Forest, Decision Trees, Clustering (K-means), RNNs, LSTMs, ANNs, CNNs.
-- **Libraries and Frameworks:** Scikit-learn, PyTorch.
-- **Techniques:** Data cleaning, preprocessing, visualization, exploratory data analysis (EDA).
+- **Algorithms:** Proficient in a range of machine learning algorithms such as Linear Regression, Random Forest, Decision Trees, and Clustering (K-means).
+- **Deep Learning:** Expertise in neural networks, including RNNs, LSTMs, ANNs, and CNNs, to tackle problems in time series, computer vision, and natural language processing.
+- **Techniques:** Data preprocessing, feature engineering, and exploratory data analysis (EDA) to extract actionable insights from raw data.
 
 ### Tools and Technologies
-- **Jupyter Notebooks:** For developing and presenting machine learning projects.
-- **Power BI:** Crafting insightful dashboards and visualizations.
-- **GitHub:** Version control and collaboration on projects.
+- **Jupyter Notebooks:** Skilled in developing and documenting machine learning projects using Jupyter Notebooks.
+- **Power BI:** Expertise in using Power BI to create insightful, interactive dashboards that drive business decisions.
+- **GitHub:** Experienced in using GitHub for version control and collaboration on data science and AI projects.
 
 ### Analytical Skills
-- **Statistics:** Strong foundation in statistical analysis and data interpretation.
-- **Data Visualization:** Proficient in using Matplotlib and other visualization tools to convey insights effectively.
+- **Statistics:** Strong foundation in statistics and hypothesis testing, ensuring data-driven decision-making.
+- **Data Visualization:** Proficient in creating clear, meaningful visualizations using tools like Matplotlib, Power BI, and Seaborn to communicate complex insights.
 
 ### Collaboration and Communication
-- **Teamwork:** Experienced in collaborative environments, working on interdisciplinary teams.
-- **Documentation:** Clear and modular code documentation practices for future reference.
+- **Teamwork:** Effective in working with cross-functional teams, collaborating with stakeholders to deliver business-oriented AI solutions.
+- **Documentation:** Clear and modular code documentation to ensure maintainability and clarity in project development.
 
 ---
 
-## Projects
+Thank you for visiting my GitHub! I'm always open to collaborations, discussions on AI, and working together on projects that make a real-world impact. Feel free to reach out to me via email.
 
-### Solar Yields Prediction
-- **Description:** Predicted solar yields using machine learning.
-- **Techniques Used:** Linear Regression (sklearn), Deep Learning Linear Regression (PyTorch), LSTM (PyTorch).
-- **Highlights:** Trend analysis, correlation analysis, preprocessing with Standard Scaler, and model training using ADAM optimizer and Mean Squared Error loss function.
-
-### Grammy Awards Data Analysis
-- **Description:** Conducted exploratory data analysis on Grammy Awards data.
-- **Tools Used:** Matplotlib, Pandas.
-- **Highlights:** Analysis of artists' records, racial representation, nominations and awards, and genre-specific insights.
-
-### Marketing Campaign Clustering
-- **Description:** Grouped customers based on features such as marital status, education, number of children, and recency using K-means clustering.
-- **Techniques Used:** Elbow Method, silhouette analysis.
-- **Highlights:** Identified four unique customer clusters, providing actionable insights for targeted marketing strategies.
-
-### Mental Health Chatbot
-- **Description:** Developed a chatbot to support individuals with mental health concerns.
-- **Technologies Used:** DialoGPT, natural language processing.
-
-### Book Recommendation System
-- **Description:** Created a system to recommend books based on user preferences.
-- **Techniques Used:** Collaborative filtering, content-based filtering.
-
-### QA ChatBot for Introverts
-- **Description:** Built a chatbot to help introverted individuals engage in conversations.
-- **Technologies Used:** Natural language processing, machine learning.
-
----
-
-## Education and Learning Journey
-
-I began my journey into Machine Learning and AI two years ago, inspired by the potential of Alexa. Since then, I have attended boot camps and completed online courses from platforms like Udemy, Coursera, and Udacity, focusing on Python, Data Science, and Machine Learning. I have also explored various algorithms and frameworks, including:
-
-- **Daniel Bourke's YouTube course on PyTorch**
-- **Kaggle for practical applications and references**
-
-### Key Learning Milestones
-- Mastered foundational algorithms: Linear Regression, Random Forest, Decision Trees.
-- Delved into PyTorch framework and advanced models like NLP, Sequential Models, and Computer Vision.
-- Applied knowledge in internships, working on projects such as food recognition models, sign language recognition, and sales prediction using machine learning.
-
----
-
-Thank you for visiting my GitHub page! I'm always open to collaborations and discussions on AI and data science. Feel free to reach out to me via email.
-
----
-<!---
-muyale/muyale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
